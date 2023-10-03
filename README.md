@@ -191,7 +191,7 @@ const BootstrapCarousel = () => {
 export default BootstrapCarousel;
 ```
 
-Importações:
+Comentários:
 
 
 - `bootstrap/dist/css/bootstrap.min.css` : Importa o arquivo de estilo CSS do Bootstrap para aplicar estilos ao componente Carousel.
